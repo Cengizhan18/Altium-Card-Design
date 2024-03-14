@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-15
+Removed Pin From Net: NetName=GND Pin=U5-38
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Change Component Library : Designator=U5 Old Library=Udemy_Library.IntLib New Library=Udemy_Schematic_LIB.SchLib
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Class Member: Failed to add class member : Component R10 RES 15 OHM 0603
+Add Class Member: Failed to add class member : Component R11 RES 15 OHM 0603
+Added Room: Name=Microcontroller
+Added Room: Name=Power Management

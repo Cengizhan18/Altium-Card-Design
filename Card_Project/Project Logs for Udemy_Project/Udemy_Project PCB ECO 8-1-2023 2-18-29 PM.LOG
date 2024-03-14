@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=RL2-4
+Removed Pin From Net: NetName=12VDC Pin=RL2-5
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Added Pin To Net: NetName=12VDC Pin=RL2-4
+Added Pin To Net: NetName=NetD4_2 Pin=RL2-5
+Add Class Member: Failed to add class member : Component R10 RES 15 OHM 0603
+Add Class Member: Failed to add class member : Component R11 RES 15 OHM 0603

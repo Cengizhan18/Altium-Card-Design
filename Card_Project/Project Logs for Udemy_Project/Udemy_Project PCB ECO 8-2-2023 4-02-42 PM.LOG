@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Microcontroller Member=C33
+Removed Member From Class: ClassName=Sensor Board Member=D2
+Removed Member From Class: ClassName=Microcontroller Member=D7
+Removed Member From Class: ClassName=Power Management Member=D7
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Added Member To Class: ClassName=Microcontroller Member=Component C28 CAP CER 100nF 0603
+Added Member To Class: ClassName=Microcontroller Member=Component C29 CAP CER 100nF 0603
+Added Member To Class: ClassName=Microcontroller Member=Component C31 CAP CER 1uF
+Added Member To Class: ClassName=Microcontroller Member=Component C32 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C34 CAP CER 33uF 1206
+Added Member To Class: ClassName=Sensor Board Member=Component C36 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C38 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C40 CAP CER 4.7uF 0805
+Added Member To Class: ClassName=Sensor Board Member=Component C42 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C44 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C46 CAP CER 4.7uF 0805
+Added Member To Class: ClassName=Power Management Member=Component D2 1N4148WS
+Added Member To Class: ClassName=Power Management Member=Component D4 1N4148WS
+Added Member To Class: ClassName=Microcontroller Member=Component D6 1N4148WS
+Added Member To Class: ClassName=Sensor Board Member=Component D8 LED RED 0805
+Add Class Member: Failed to add class member : Component R10 RES 15 OHM 0603
+Add Class Member: Failed to add class member : Component R11 RES 15 OHM 0603

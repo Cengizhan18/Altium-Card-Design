@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=BR1-1
+Removed Pin From Net: NetName=GND Pin=T1-9
+Removed Member From Class: ClassName=Microcontroller Member=C33
+Removed Member From Class: ClassName=Sensor Board Member=D2
+Removed Member From Class: ClassName=Microcontroller Member=D7
+Removed Member From Class: ClassName=Power Management Member=D7
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=C34 NewDesignator=C33
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=C36 NewDesignator=C35
+Change Component Designator: OldDesignator=C37 NewDesignator=C36
+Change Component Designator: OldDesignator=C38 NewDesignator=C37
+Change Component Designator: OldDesignator=C39 NewDesignator=C38
+Change Component Designator: OldDesignator=C40 NewDesignator=C39
+Change Component Designator: OldDesignator=C41 NewDesignator=C40
+Change Component Designator: OldDesignator=C42 NewDesignator=C41
+Change Component Designator: OldDesignator=C43 NewDesignator=C42
+Change Component Designator: OldDesignator=C44 NewDesignator=C43
+Change Component Designator: OldDesignator=C45 NewDesignator=C44
+Change Component Designator: OldDesignator=C46 NewDesignator=C45
+Change Component Designator: OldDesignator=C47 NewDesignator=C46
+Change Component Designator: OldDesignator=D2 NewDesignator=D8
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC32_1
+Change Net Name : Old Net Name=NetC33_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC34_2
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetC37_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetC37_2 New Net Name=NetC36_2
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetC42_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD7_2
+Added Pin To Net: NetName=NetBR1_1 Pin=BR1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=T1-9
+Added Net: Name=NetBR1_1
+Added Member To Class: ClassName=Microcontroller Member=Component C28 CAP CER 100nF 0603
+Added Member To Class: ClassName=Microcontroller Member=Component C29 CAP CER 100nF 0603
+Added Member To Class: ClassName=Microcontroller Member=Component C31 CAP CER 1uF
+Added Member To Class: ClassName=Microcontroller Member=Component C32 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C32 CAP CER 10nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C33 CAP CER 33uF 1206
+Added Member To Class: ClassName=Sensor Board Member=Component C35 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C37 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C39 CAP CER 4.7uF 0805
+Added Member To Class: ClassName=Sensor Board Member=Component C41 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C43 CAP CER 100nF 0603
+Added Member To Class: ClassName=Sensor Board Member=Component C45 CAP CER 4.7uF 0805
+Added Member To Class: ClassName=Power Management Member=Component D3 1N4148WS
+Added Member To Class: ClassName=Microcontroller Member=Component D6 1N4148WS
+Added Member To Class: ClassName=Sensor Board Member=Component D6 LED GREEN 0805
+Added Member To Class: ClassName=Sensor Board Member=Component D7 LED RED 0805
+Added Member To Class: ClassName=Power Management Member=Component D8 1N4148WS
+Add Class Member: Failed to add class member : Component R10 RES 15 OHM 0603
+Add Class Member: Failed to add class member : Component R11 RES 15 OHM 0603

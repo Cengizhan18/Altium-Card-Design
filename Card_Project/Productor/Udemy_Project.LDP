@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Udemy_Project\Udemy_Project.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=udemy_project-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=udemy_project-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_POWER_Blind_Vias|DrillFile=udemy_project-roundholes.tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=POWER_Bot_Blind_Vias|DrillFile=udemy_project-roundholes.tx2|DrillLayers=gp2,gbl

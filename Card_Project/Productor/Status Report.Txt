@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Udemy_Project.PrjPcb]
+   Generated File[Udemy_Project.GTO]
+   Generated File[Udemy_Project.GTP]
+   Generated File[Udemy_Project.GTS]
+   Generated File[Udemy_Project.GTL]
+   Generated File[Udemy_Project.GP1]
+   Generated File[Udemy_Project.GP2]
+   Generated File[Udemy_Project.GBL]
+   Generated File[Udemy_Project.GBS]
+   Generated File[Udemy_Project.GBP]
+   Generated File[Udemy_Project.GBO]
+   Generated File[Udemy_Project.GM8]
+   Generated File[Udemy_Project.GKO]
+   Generated File[Udemy_Project.GPT]
+   Generated File[Udemy_Project.GD1]
+   Generated File[Udemy_Project.GD2]
+   Generated File[Udemy_Project.GD3]
+   Generated File[Udemy_Project.GG1]
+   Generated File[Udemy_Project.GG2]
+   Generated File[Udemy_Project.GG3]
+   Generated File[Udemy_Project.EXTREP]
+   Generated File[Udemy_Project.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 3:00:20 PM On 8/15/2023
